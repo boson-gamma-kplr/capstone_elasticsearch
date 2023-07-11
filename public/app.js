@@ -2,7 +2,7 @@ const vm = new Vue ({
     el: '#vue-instance',
     data () {
       return {
-        baseUrl: 'https://3000-bosongammak-capstoneela-jf1k3bnn15s.ws-eu101.gitpod.io', // API url
+        baseUrl: 'https://3000-bosongammak-capstoneela-1fwiw04mpf1.ws-eu101.gitpod.io', // API url
         searchTerm: 'Hello World', // Default search term
         searchDebounce: null, // Timeout for search bar debounce
         searchResults: [], // Displayed search results
